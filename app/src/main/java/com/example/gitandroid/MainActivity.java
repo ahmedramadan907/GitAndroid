@@ -13,5 +13,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.i("ADD", "onCreate: ");
+        Log.i("ADD", "onCreate: ");
+        Log.i("ADD", "onCreate: ");
+
     }
 }
